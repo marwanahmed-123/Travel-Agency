@@ -1,1 +1,1 @@
-# Travel-Agency
+Developed backend architecture documentation and implemented in JAVA for a travel agency system that enables users to search, book, and manage hotel reservations and event tickets. This project showcases expertise in software architecture, backend development, API integration, and notification management, following SOLID principles, design patterns, and object-oriented programming best practices.
